@@ -1,0 +1,39 @@
+div {
+    border-radius: 50%
+  }
+  
+  .outer-div {
+    width: 75px;
+    height: 75px;
+    background-color: #bcbcbc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .first-div {
+    width: 80px;
+    height: 80px;
+    background-color: #daeff0;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #bcbcbc;
+  }
+  
+  .inner-div {
+    display: flex;
+    align-item: center;
+    justify-content: center;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #005f64;
+  }
+  
+  h1 {
+    font-size: 12px;
+    margin: auto;
+    color: #59f7ff;
+  }
