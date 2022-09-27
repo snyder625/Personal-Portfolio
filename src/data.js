@@ -1,4 +1,4 @@
-export const products = [
+export const projects = [
     {
         id: 1,
         img: "https://firebasestorage.googleapis.com/v0/b/clone-86962.appspot.com/o/1664093763510screencapture-localhost-3000-home-2022-09-25-13_11_22.png?alt=media&token=5e60f7f0-cddd-4afc-adb4-791088eea640",
@@ -30,3 +30,76 @@ export const products = [
         link: "snyder625.github.io/personalsite"
     }
 ];
+
+export const skills = [
+    {
+        id: 1,
+        name: "HTML",
+        link: ""
+    },
+    {
+        id: 2,
+        name: "CSS",
+        link: ""
+    },
+    {
+        id: 3,
+        name: "Javascript",
+        link: ""
+    },
+    {
+        id: 4,
+        name: "React JS",
+        link: ""
+    },
+    {
+        id: 5,
+        name: "Node JS",
+        link: ""
+    },
+    {
+        id: 6,
+        name: "Express JS",
+        link: ""
+    },
+    {
+        id: 7,
+        name: "MongoDB",
+        link: ""
+    },
+    {
+        id: 8,
+        name: "Python",
+        link: ""
+    },
+    {
+        id: 9,
+        name: "C++",
+        link: ""
+    },
+    {
+        id: 10,
+        name: "C#",
+        link: ""
+    },
+    {
+        id: 11,
+        name: "SQL",
+        link: ""
+    },
+    {
+        id: 12,
+        name: "C++",
+        link: ""
+    },
+    {
+        id: 13,
+        name: "Git",
+        link: ""
+    },
+    {
+        id: 14,
+        name: "Github",
+        link: ""
+    }
+]

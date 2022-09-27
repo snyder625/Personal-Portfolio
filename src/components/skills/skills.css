@@ -1,0 +1,23 @@
+.sk {
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.sk-texts {
+    width: 65%;
+}
+
+.sk-head {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.sk-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}

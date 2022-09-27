@@ -1,5 +1,5 @@
 import React from 'react'
-import './product.css'
+import './project.css'
 
 const Product = ({img, link}) => {
   return (

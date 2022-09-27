@@ -1,10 +1,13 @@
-div {
-    border-radius: 50%
-  }
+.s {
+  width: 130px;
+  height: 20vh;
+  margin: 10px 10px;
+}  
   
   .outer-div {
-    width: 75px;
-    height: 75px;
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
     background-color: #bcbcbc;
     display: flex;
     align-items: center;
@@ -12,8 +15,9 @@ div {
   }
   
   .first-div {
-    width: 80px;
-    height: 80px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
     background-color: #daeff0;
     position: absolute;
     display: flex;
@@ -23,17 +27,19 @@ div {
   }
   
   .inner-div {
+    border-radius: 50%;
     display: flex;
-    align-item: center;
     justify-content: center;
     position: absolute;
-    width: 60px;
-    height: 60px;
+    width: 105px;
+    height: 105px;
     background-color: #005f64;
   }
   
-  h1 {
-    font-size: 12px;
+  .main {
+    font-size: 18px;
     margin: auto;
     color: #59f7ff;
   }
+
+ 
